@@ -1,4 +1,4 @@
 # AR_App
-Augmented Reality
+Augmented Reality App
 
 Member(s): Hirish Chandrasekaran
